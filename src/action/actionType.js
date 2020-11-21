@@ -1,0 +1,7 @@
+export const BUG_ADDED = "bugAdded"
+export const BUG_REMOVED = "bugRemoved"
+export const CLIENT_ADDED = "clientAdded"
+export const CLIENT_REMOVE = "clientRemoved"
+export const GET_ALL_CLIENT = "getAllClients"
+export const GET_CLIENT_BY_ID = "getClientById"
+export const UPDATE_CLIENT_BY_ID = "updateClientById"
